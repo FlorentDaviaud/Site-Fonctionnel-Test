@@ -27,6 +27,11 @@ body {
   font-family: $font-1;
   // @include verticalCenter;
 }
+
 li {
   list-style-type: none;
+}
+
+.container {
+  background-image: url(./assets/img/"main.jpg");
 }
