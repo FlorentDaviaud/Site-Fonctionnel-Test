@@ -4,8 +4,8 @@ const Logo = () => {
     return (
         <div className="logo">
             {/*Les images importees depuis la balise img sont accessibles dans public*/}
-            <img src="./logo192.png" alt="logo react" />
-            <h3>React World</h3>
+            <img src="./veloLogo.png" alt="logo velo" />
+            <h3>Les vélos de Quentin</h3>
         </div>
     );
 };
