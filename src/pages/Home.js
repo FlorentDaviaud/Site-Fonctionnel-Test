@@ -1,16 +1,13 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
 import Logo from '../components/Logo';
-import Titre from '../components/Titre';
-import Image_intro from '../components/Image_intro';
+
 
 const Home = () => {
     return (
         <div>
             <Logo />
             <Navigation />
-            <Titre />
-            <Image_intro />
             <h1>ACCUEIL</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod iste, tempora dolorem inventore delectus obcaecati corporis numquam dicta quae illum error commodi. Facilis exercitationem, incidunt sed earum porro architecto ipsum.</p>
             <br />

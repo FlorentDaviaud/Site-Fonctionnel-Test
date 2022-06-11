@@ -1,0 +1,6 @@
+.imageIntro {
+    @include verticalCenter;
+    /*@include horizontalCenter;*/
+    margin: 5px auto;
+    width: 800px;
+}
