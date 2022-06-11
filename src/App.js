@@ -4,11 +4,9 @@ import About from './pages/About';
 import Home from './pages/Home';
 import Velo from './pages/Velo';
 
-
 const App = () => {
   return (
     <div>
-      {/*<img src="./logo192.png" alt="logo react" />*/}
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
